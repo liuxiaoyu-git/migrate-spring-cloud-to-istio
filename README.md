@@ -1,3 +1,6 @@
+注意：
+需要修改 getway 中3个文件内的 hosts 名
+
 # migrate-spring-cloud-to-istio
 
 ## Test on local
